@@ -154,12 +154,7 @@ export default function GenBotWebsite() {
                     </div>
                     <p className="text-sm text-gray-400">Request entertainment content</p>
                   </div>
-                  <div>
-                    <div className="bg-gray-700/50 p-3 rounded-lg font-mono text-blue-400 mb-2">
-                      @gen what's the weather?
-                    </div>
-                    <p className="text-sm text-gray-400">Ask for information and assistance</p>
-                  </div>
+                 
                 </div>
               </div>
             </div>
